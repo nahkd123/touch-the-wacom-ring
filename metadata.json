@@ -1,0 +1,9 @@
+{
+  "Name": "Touch the Wacom Ring",
+  "Owner": "nahkd123",
+  "Description": "Plugin to utilize the touch ring on Wacom PTH-x60",
+  "PluginVersion": "0.0.1",
+  "SupportedDriverVersion": "0.6.5.0",
+  "RepositoryUrl": "https://github.com/nahkd123/touch-the-wacom-ring.git",
+  "LicenseIdentifier": "MIT"
+}
